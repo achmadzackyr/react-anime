@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-anime/static/css/main.0b4e74b4.css",
-    "main.js": "/react-anime/static/js/main.b0751388.js",
+    "main.js": "/react-anime/static/js/main.26ba22bb.js",
     "static/js/787.1912edf5.chunk.js": "/react-anime/static/js/787.1912edf5.chunk.js",
     "index.html": "/react-anime/index.html",
     "main.0b4e74b4.css.map": "/react-anime/static/css/main.0b4e74b4.css.map",
-    "main.b0751388.js.map": "/react-anime/static/js/main.b0751388.js.map",
+    "main.26ba22bb.js.map": "/react-anime/static/js/main.26ba22bb.js.map",
     "787.1912edf5.chunk.js.map": "/react-anime/static/js/787.1912edf5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b4e74b4.css",
-    "static/js/main.b0751388.js"
+    "static/js/main.26ba22bb.js"
   ]
 }
