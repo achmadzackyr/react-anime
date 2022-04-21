@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Anchor = () => {
+const Anchor = (props) => {
   return (
-    <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-      Learn React
+    <a href={props.href} target={props.target} rel="noopener noreferrer">
+      {props.text}
     </a>
   );
 };
