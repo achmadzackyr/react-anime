@@ -1,3 +1,9 @@
+Demo: https://achmadzackyr.github.io/react-anime/
+Anime list website made with Create React App & React-Bootstrap.
+Demo deployed by gh-pages package in gh-pages branch.
+
+Made by Achmad Zacky R
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
